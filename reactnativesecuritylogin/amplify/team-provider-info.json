@@ -1,0 +1,22 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-reactnativesecurityl-dev-210934-authRole",
+            "UnauthRoleArn": "arn:aws:iam::382257471380:role/amplify-reactnativesecurityl-dev-210934-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::382257471380:role/amplify-reactnativesecurityl-dev-210934-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-reactnativesecurityl-dev-210934-deployment",
+            "UnauthRoleName": "amplify-reactnativesecurityl-dev-210934-unauthRole",
+            "StackName": "amplify-reactnativesecurityl-dev-210934",
+            "StackId": "arn:aws:cloudformation:us-east-2:382257471380:stack/amplify-reactnativesecurityl-dev-210934/f415ed40-d6af-11ea-ada1-06eba8d6f1ae",
+            "AmplifyAppId": "d2k8mnb0x9nst0"
+        },
+        "categories": {
+            "auth": {
+                "reactnativesecurityl7fd0a970": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"711951482686945\",\"client_secret\":\"e97f662fdc9069e95ab76051c1ccb5d8\"},{\"ProviderName\":\"Google\",\"client_id\":\"869259730668-iuqm57pgfo61dlaqe72lmfqtcd4uhnpm.apps.googleusercontent.com\",\"client_secret\":\"1pazWLZ2n-EdRakbbvD9vsRO\"}]"
+                }
+            }
+        }
+    }
+}
